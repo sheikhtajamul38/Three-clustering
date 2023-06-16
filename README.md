@@ -1,4 +1,4 @@
-# # Job Analysis and Clustering
+## Job Analysis and Clustering
 
 This repository contains the code and data for performing job analysis and clustering of IT job advertisements. The aim of this project is to gain insights into job roles, responsibilities, and candidate requirements in the IT industry, specifically focusing on Data Science positions.
 
